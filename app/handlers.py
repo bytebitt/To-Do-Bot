@@ -135,7 +135,7 @@ async def process_task(message: Message, state: FSMContext):
     if reminder_time is None:
         await message.reply("Something went wrong, please start over.")
         await state.clear()
-        return
+        return 
 
     task_text = message.text
     now = datetime.now()
