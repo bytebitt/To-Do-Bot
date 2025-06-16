@@ -22,6 +22,10 @@ A simple Telegram bot to help you create, delete, and manage your to-do tasks wi
 
 ---
 
+This bot is **not hosted** anywhere.  
+This repository contains only the source code.  
+To use the bot, you need to run it locally or deploy it on your own server.
+
 ## Setup & Running
 
 1. Clone the repository:
